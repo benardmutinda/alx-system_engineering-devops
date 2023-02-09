@@ -1,2 +1,2 @@
 #!/bin/bash
-Chown Vincent:staff
+Chown Vincent:staf *
